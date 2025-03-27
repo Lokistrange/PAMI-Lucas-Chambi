@@ -1,2 +1,1 @@
-# pami-lucas-chambi
-Aulas de Programação de App Mobile I
+#   Aulas de Programação App Mobile I
